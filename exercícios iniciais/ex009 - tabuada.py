@@ -1,0 +1,22 @@
+n = int(input('Digite um número qualquer '))
+n1 = n*1
+n2 = n*2
+n3 = n*3
+n4 = n*4
+n5 = n*5
+n6 = n*6
+n7 = n*7
+n8 = n*8
+n9 = n*9
+n10 = n*10
+print('1 *', n,'=', n1)
+print('2 *', n,'=', n2)
+print('3 *', n,'=', n3)
+print('4 *', n,'=', n4)
+print('5 *', n,'=', n5)
+print('6 *', n,'=', n6)
+print('7 *', n,'=', n7)
+print('8 *', n,'=', n8)
+print('9 *', n,'=', n9)
+print('10 *', n,'=', n10)
+
